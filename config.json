@@ -1,0 +1,22 @@
+
+{
+   "connection": { 
+	 "host": "<<host>>",
+	 "port": <<port>>,
+	 "user": "<<username>>",
+	 "pass": "<<password>>",
+	 "dbname": "somernew" },
+
+   "social":{
+	"accessTokenFB":"",
+	"APIKeyTW":"",
+	"APISecretTW":"",
+	"accessTokenTW":"",
+	"accessTokenTWS":""},
+
+    "feed": {
+      	"data":[]
+	}
+}
+
+		
