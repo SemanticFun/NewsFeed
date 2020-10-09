@@ -1,0 +1,682 @@
+
+{
+   "connection": { 
+	 "host": "<<host>>",
+	 "port": "<<port>>",
+	 "user": "<<username>>",
+	 "pass": "<<password>>",
+	 "dbname": "somernew" },
+
+   "social":{
+	"accessTokenFB":"",
+	"APIKeyTW":"",
+	"APISecretTW":"",
+	"accessTokenTW":"",
+	"accessTokenTWS":""},
+
+    "feed": {
+
+      	"data":[
+
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/ansait_rss.xml",
+      			"channel": "sito",
+      			"category": "paginagenerale",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml",
+      			"channel": "sito",
+      			"category": "cronaca",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+      			"channel": "sito",
+      			"category": "politica",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+      			"channel": "sito",
+      			"category": "mondo",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
+      			"channel": "sito",
+      			"category": "economia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/sport/calcio/calcio_rss.xml",
+      			"channel": "sito",
+      			"category": "calcio",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/sport/sport_rss.xml",
+      			"channel": "sito",
+      			"category": "sport",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/cultura/cinema/cinema_rss.xml",
+      			"channel": "sito",
+      			"category": "cinema",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml",
+      			"channel": "sito",
+      			"category": "cultura",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/tecnologia/tecnologia_rss.xml",
+      			"channel": "sito",
+      			"category": "tech",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",
+      			"channel": "sito",
+      			"category": "top news",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/canale_motori/notizie/motori_rss.xml",
+      			"channel": "sito",
+      			"category": "motori",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/canale_terraegusto/notizie/terraegusto_rss.xml",
+      			"channel": "sito",
+      			"category": "terra gusto",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/europa/notizie/rss.xml",
+      			"channel": "sito",
+      			"category": "europa",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/web/notizie/canali/inviaggio/news/newsinviaggio_rss.xml",
+      			"channel": "sito",
+      			"category": "viaggi",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/abruzzo/notizie/abruzzo_rss.xml",
+      			"channel": "sito",
+      			"category": "abruzzo",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/basilicata/notizie/basilicata_rss.xml",
+      			"channel": "sito",
+      			"category": "basilicata",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/calabria/notizie/calabria_rss.xml",
+      			"channel": "sito",
+      			"category": "calabria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/campania/notizie/campania_rss.xml",
+      			"channel": "sito",
+      			"category": "campania",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/emiliaromagna/notizie/emiliaromagna_rss.xml",
+      			"channel": "sito",
+      			"category": "emilia romagna",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/friuliveneziagiulia/notizie/friuliveneziagiulia_rss.xml",
+      			"channel": "sito",
+      			"category": "friuli venezia giulia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/lazio/notizie/lazio_rss.xml",
+      			"channel": "sito",
+      			"category": "lazio",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/liguria/notizie/liguria_rss.xml",
+      			"channel": "sito",
+      			"category": "liguria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/lombardia/notizie/lombardia_rss.xml",
+      			"channel": "sito",
+      			"category": "lombardia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/marche/notizie/marche_rss.xml",
+      			"channel": "sito",
+      			"category": "marche",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/molise/notizie/molise_rss.xml",
+      			"channel": "sito",
+      			"category": "molise",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/piemonte/notizie/piemonte_rss.xml",
+      			"channel": "sito",
+      			"category": "piemonte",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/puglia/notizie/puglia_rss.xml",
+      			"channel": "sito",
+      			"category": "puglia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sardegna/notizie/sardegna_rss.xml",
+      			"channel": "sito",
+      			"category": "sardegna",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/sicilia/notizie/sicilia_rss.xml",
+      			"channel": "sito",
+      			"category": "sicilia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/toscana/notizie/toscana_rss.xml",
+      			"channel": "sito",
+      			"category": "toscana",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/trentino/notizie/trentino_rss.xml",
+      			"channel": "sito",
+      			"category": "trentino",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/umbria/notizie/umbria_rss.xml",
+      			"channel": "sito",
+      			"category": "umbria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/valledaosta/notizie/valledaosta_rss.xml",
+      			"channel": "sito",
+      			"category": "valle aosta",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "https://www.ansa.it/veneto/notizie/veneto_rss.xml",
+      			"channel": "sito",
+      			"category": "veneto",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AgenziaANSA",
+      			"channel": "facebook",
+      			"category": "paginagenerale",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaSalute",
+      			"channel": "facebook",
+      			"category": "salute",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaMolise",
+      			"channel": "facebook",
+      			"category": "molise",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaAbruzzo",
+      			"channel": "facebook",
+      			"category": "abruzzo",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaCalabria",
+      			"channel": "facebook",
+      			"category": "calabria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaPuglia",
+      			"channel": "facebook",
+      			"category": "puglia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaBasilicata",
+      			"channel": "facebook",
+      			"category": "basilicata",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaLombardia",
+      			"channel": "facebook",
+      			"category": "lombardia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaVeneto",
+      			"channel": "facebook",
+      			"category": "veneto",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaSardegna",
+      			"channel": "facebook",
+      			"category": "sardegna",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ANSATrentinoAASudtirol",
+      			"channel": "facebook",
+      			"category": "trentino aldo adige",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaSicilia",
+      			"channel": "facebook",
+      			"category": "sicilia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaMarche",
+      			"channel": "facebook",
+      			"category": "marche",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaNapoli",
+      			"channel": "facebook",
+      			"category": "campania",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "305714569513941",
+      			"channel": "facebook",
+      			"category": "motori",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "346310278768537",
+      			"channel": "facebook",
+      			"category": "terra gusto",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaUmbria",
+      			"channel": "facebook",
+      			"category": "umbria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaRomaLazio",
+      			"channel": "facebook",
+      			"category": "roma lazio",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaFVG",
+      			"channel": "facebook",
+      			"category": "friuli venezia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaToscana",
+      			"channel": "facebook",
+      			"category": "toscana",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaEmiliaRomagna",
+      			"channel": "facebook",
+      			"category": "emilia romagna",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaPiemonte",
+      			"channel": "facebook",
+      			"category": "piemonte",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaLiguria",
+      			"channel": "facebook",
+      			"category": "liguria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaValledAosta",
+      			"channel": "facebook",
+      			"category": "valle aosta",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "132947643476534",
+      			"channel": "facebook",
+      			"category": "medicina",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansaeuropa",
+      			"channel": "facebook",
+      			"category": "europa",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ANSAInViaggio",
+      			"channel": "facebook",
+      			"category": "viaggi",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Agenzia_Ansa",
+      			"channel": "twitter",
+      			"category": "paginagenerale",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansacalciosport",
+      			"channel": "twitter",
+      			"category": "calcio sport",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansa_viaggi",
+      			"channel": "twitter",
+      			"category": "viaggi",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansaeuropa",
+      			"channel": "twitter",
+      			"category": "europa",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansa_economia",
+      			"channel": "twitter",
+      			"category": "economia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaScienza",
+      			"channel": "twitter",
+      			"category": "scienza",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Ansa_ER",
+      			"channel": "twitter",
+      			"category": "emilia romagna",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaEXPO2015",
+      			"channel": "twitter",
+      			"category": "expo",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Ansa_Fvg",
+      			"channel": "twitter",
+      			"category": "friuli venezia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaSanremo",
+      			"channel": "twitter",
+      			"category": "sanremo",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Ansa_Piemonte",
+      			"channel": "twitter",
+      			"category": "piemonte",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansa_motori",
+      			"channel": "twitter",
+      			"category": "motori",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ANSA_med",
+      			"channel": "twitter",
+      			"category": "medicina",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaToscana",
+      			"channel": "twitter",
+      			"category": "toscana",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ANSACampania",
+      			"channel": "twitter",
+      			"category": "campania",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaRomaLazio",
+      			"channel": "twitter",
+      			"category": "roma lazio",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Ansa_TerraGusto",
+      			"channel": "twitter",
+      			"category": "terra gusto",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaLombardia",
+      			"channel": "twitter",
+      			"category": "lombardia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Ansa_Umbria",
+      			"channel": "twitter",
+      			"category": "umbria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaAbruzzo",
+      			"channel": "twitter",
+      			"category": "abruzzo",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaSicilia",
+      			"channel": "twitter",
+      			"category": "sicilia",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansa_ambiente",
+      			"channel": "twitter",
+      			"category": "ambiente",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaValledAosta",
+      			"channel": "twitter",
+      			"category": "valle aosta",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaSardegna",
+      			"channel": "twitter",
+      			"category": "sardegna",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Ansa_Legalita",
+      			"channel": "twitter",
+      			"category": "legalita",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaTrentinoAA",
+      			"channel": "twitter",
+      			"category": "trentino",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansamondiali",
+      			"channel": "twitter",
+      			"category": "mondiali",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaSalute",
+      			"channel": "twitter",
+      			"category": "salute",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaVeneto",
+      			"channel": "twitter",
+      			"category": "veneto",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "Ansa_Olimpiadi",
+      			"channel": "twitter",
+      			"category": "olimpiadi",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "AnsaCalabria",
+      			"channel": "twitter",
+      			"category": "calabria",
+			"type":"insert"
+       		},
+		{
+			"author": "ansa",
+      			"link_rss": "ansa_maltempo",
+      			"channel": "twitter",
+      			"category": "meteo",
+			"type":"insert"
+       		},
+		]
+
+}
+}
