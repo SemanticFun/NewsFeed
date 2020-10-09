@@ -1,0 +1,15 @@
+
+Controllo del file config. Attendere. Nessun nuovo link inserito.
+Inizio analisi: 07/03/18 11:56 - Fine: 07/03/18 13:08. Inserite '1361' nuove notizie. 89 errori rilevati
+Controllo del file config. Attendere. Nessun nuovo link inserito.
+Inizio analisi: 07/03/18 13:08 - Fine: 07/03/18 14:05. Inserite '376' nuove notizie. 65 errori rilevati
+Controllo del file config. Attendere. Nessun nuovo link inserito.
+Inizio analisi: 07/03/18 14:05 - Fine: 07/03/18 15:02. Inserite '305' nuove notizie. 62 errori rilevati
+Controllo del file config. Attendere. Nessun nuovo link inserito.
+Inizio analisi: 07/03/18 15:02 
+Controllo del file config. Attendere. Nessun nuovo link inserito.
+Inizio analisi: 18/03/18 11:44 - Fine: 18/03/18 13:03. Inserite '5336' nuove notizie. 130 errori rilevati
+Controllo del file config. Attendere. Nessun nuovo link inserito.
+Inizio analisi: 18/03/18 13:03 - Fine: 18/03/18 14:44. Inserite '377' nuove notizie. 62 errori rilevati
+Controllo del file config. Attendere. Nessun nuovo link inserito.
+Inizio analisi: 18/03/18 14:44 
